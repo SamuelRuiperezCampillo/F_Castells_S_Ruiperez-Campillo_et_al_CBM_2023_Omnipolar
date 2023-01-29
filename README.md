@@ -1,7 +1,22 @@
 # F_Castells_S_Ruiperez-Campillo_et_al_CBM_2023_Omnipolar
 These repository contains the functions that compute the simulations and analysis of the omnipolar electrograms in high density catheters, corresponding to the publication: F. Castells, S. Ruipérez-Campillo et al., Computers in Biology and Medicine, 2023
 
-Any individual benefiting from any of this code must cite the work as: F. Castells, S. Ruiperez-Campillo, I. Segarra, R. Cervig ́on, R. Casado-Arroyo, J. Merino, J. Millet, Performance assessment of electrode configurations for the estimation of omnipolar electrograms from high density arrays, Computers in Biology and Medicine (2023). Please read the description below for usage instructions.
+Any individual benefiting from any of this code must cite the work as (APA): Castells, F., Ruipérez-Campillo, S., Segarra, I., Cervigón, R., Casado-Arroyo, R., Merino, J. L., & Millet, J. (2023). Performance assessment of electrode configurations for the estimation of omnipolar electrograms from high density arrays. Computers in Biology and Medicine, 106604.
+
+BibTex: 
+
+
+@article{castells2023performance,
+  title={Performance assessment of electrode configurations for the estimation of omnipolar electrograms from high density arrays},
+  author={Castells, Francisco and Ruip{\'e}rez-Campillo, Samuel and Segarra, Izan and Cervig{\'o}n, Raquel and Casado-Arroyo, Rub{\'e}n and Merino, Jos{\'e} Luis and Millet, Jos{\'e}},
+  journal={Computers in Biology and Medicine},
+  pages={106604},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+Please read the description below for usage instructions.
 
 -------------------------------------------------------------------------------
 This package has been designed with the following objectives:
