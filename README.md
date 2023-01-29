@@ -12,7 +12,9 @@ This package has been designed with the following objectives:
 
 For each objective, this description and files apply:
 
+
 Objective 1.
+
   Brief description: Generate simulations of plane wavefront propagation...
 
   Step 1. To get synthetic propagtion execute the following function with especified parameters:
@@ -24,7 +26,10 @@ Objective 1.
   Function files used: generate_synthetic_propagation.m, extract_beat.m
 
 
+
+
 Objective 2.
+
   Step 1. To get bipolar EGM execute:
       b_egm = compute_b_egm(u_egm,n_rows,n_columns,mode)
 
@@ -34,7 +39,10 @@ Objective 2.
   Function files used: compute_b_egm.m, compute_angle_estimation.m
 
 
+
+
 Objective 3.
+
   Step 1. To get omnipolar EGM execute:
           o_egm_cross = compute_o_egm(b_egm_cross,angle*ones(1,number_of_cliques),n_rows,n_columns);
 
@@ -44,7 +52,10 @@ Objective 3.
   Function files used: compute_o_egm.m, compute_amplitude.m
   
 
+
+
 Objective 4.
+
   Step 1. To get the local activation time (LAT) of recorded signal:
           lats = get_lats_multiple_methods(egm, fs, mode)
 
